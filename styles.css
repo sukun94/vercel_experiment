@@ -15,9 +15,9 @@ body
 
 main
 {
-max-width:10px;
+max-width:300px;
 margin:0 auto;
-padding:10px;
+padding:500px;
 background-color:yellowgreen;
 text-align:justify;
 }
