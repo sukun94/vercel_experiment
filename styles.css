@@ -24,6 +24,9 @@ text-align:justify;
 
 .container
 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     width:100%;
     margin:200px;
     padding:40px;
@@ -35,5 +38,5 @@ text-align:justify;
 {
     display: flex;
     flex-direction: column;
-    slign-items: center;
+    align-items: center;
 }
