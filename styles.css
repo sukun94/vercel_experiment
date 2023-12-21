@@ -43,7 +43,7 @@ text-align:justify;
 
 .help
 {
-    max-width: 100px;
+    max-width: 100%;
     padding: 100px;
     background-color: blueviolet;
 }
