@@ -25,4 +25,6 @@ text-align:justify;
 .container
 {
     background-color:rebeccapurple;
+    max-width:200px;
+    padding:50px;
 }
