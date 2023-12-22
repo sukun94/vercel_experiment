@@ -34,6 +34,7 @@ text-align:justify;
     align-content:center; */
 }
 
+.
 .section
 {
     display: flex;
@@ -46,4 +47,11 @@ text-align:justify;
     max-width: auto;
     padding: 100px;
     background-color: blueviolet;
+}
+
+#help2
+{
+    max-width:auto;
+    padding:100px;
+    background-color: url('icons/youtube.png');
 }
